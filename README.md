@@ -1,5 +1,5 @@
 ### tbh ignore this
-[b]Requires Luvit.[b]
+**Requires Luvit.**
 I'm putting this repo here just so I don't lose it. I created these scripts for modding some textures for ffxiv to shift the colorset regions from one row to another. If none of that makes sense, don't worry about it.
 
 To further elaborate, I had some complex textures that were already "painted" with some not-so-simple colorset regions, but I needed them shifted to a different colorset row for my modded item.
